@@ -1,0 +1,9 @@
+[color]
+	ui = true
+[core]
+	editor = vim
+[user]
+	email = julien.combattelli@hotmail.com
+	name = Julien Combattelli
+[merge]
+	tool = meld
